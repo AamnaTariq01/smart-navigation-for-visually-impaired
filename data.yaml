@@ -1,0 +1,41 @@
+path: D:/smart_nav/datasets/nav
+
+train: images/train
+val: images/val
+
+names:
+  0: Person
+  1: Chair
+  2: Toothbrush
+  3: Knife
+  4: Bottle
+  5: Cup
+  6: Spoon
+  7: Bench
+  8: Refrigerator
+  9: Fork
+  10: Bus
+  11: Toilet
+  12: Bicycle
+  13: Airplane
+  14: Truck
+  15: Motorcycles
+  16: Oven
+  17: Dog
+  18: Bed
+  19: Cat
+  20: Traffic Light
+  21: Currency
+  22: Face
+  23: Stop Sign
+  24: Car
+  25: Barriers
+  26: Path Holes
+  27: Stairs
+  28: Train
+  29: Bin
+  30: Blind Stick
+  31: Men Sign
+  32: Cell Phone
+  33: Women Sign
+  34: Tap
