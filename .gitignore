@@ -1,4 +1,17 @@
+# Virtual environments and caches
 venv/
+.venv/
+env/
 __pycache__/
-*.pt
+*.pyc
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# YOLO training outputs (optional)
 runs/
+
+# Model weights (optional)
+*.pt
