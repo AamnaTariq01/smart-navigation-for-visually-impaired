@@ -1,17 +1,20 @@
-# Virtual environments and caches
+# Python
 venv/
-.venv/
-env/
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
 
-# OS junk
+# Datasets
+datasets/
+data/
+images/
+labels/
+
+# YOLO outputs
+runs/
+*.pt
+*.onnx
+*.engine
+
+# OS
 .DS_Store
 Thumbs.db
-
-# YOLO training outputs (optional)
-runs/
-
-# Model weights (optional)
-*.pt
